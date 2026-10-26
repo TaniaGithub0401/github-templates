@@ -11,4 +11,4 @@ jobs:
       contents: write
     uses: mundialis/github-workflows/.github/workflows/third-party-licenses.yml@main
     with:
-      pyproject: pyproject.toml
+      # TEMPLATE_DEPENDENCY_INPUT
